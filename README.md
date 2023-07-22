@@ -1,2 +1,2 @@
 # Airbnb_EDA
-This is Airbnb EDA project 
+This is Airbnb EDA project.
